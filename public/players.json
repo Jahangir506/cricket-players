@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "player_name": "Virat Kohli",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/164.png",
+    "title": "Captain",
+    "age": 33,
+    "country": "India",
+    "salary": 2000
+  },
+  {
+    "id": 2,
+    "player_name": "Steve Smith",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/271.png",
+    "title": "Batsman",
+    "age": 32,
+    "country": "Australia",
+    "salary": 1800
+  },
+  {
+    "id": 3,
+    "player_name": "Joe Root",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/887.png",
+    "title": "Captain",
+    "age": 31,
+    "country": "England",
+    "salary": 16000
+  },
+  {
+    "id": 4,
+    "player_name": "Kane Williamson",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/440.png",
+    "title": "Captain",
+    "age": 30,
+    "country": "New Zealand",
+    "salary": 15000
+  },
+  {
+    "id": 5,
+    "player_name": "Babar Azam",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/2759.png",
+    "title": "Batsman",
+    "age": 27,
+    "country": "Pakistan",
+    "salary": 13000
+  },
+  {
+    "id": 6,
+    "player_name": "Kagiso Rabada",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/1664.png",
+    "title": "Fast Bowler",
+    "age": 26,
+    "country": "South Africa",
+    "salary": 12000
+  },
+  {
+    "id": 7,
+    "player_name": "Shakib Al Hasan",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/201.png",
+    "title": "All-Rounder",
+    "age": 34,
+    "country": "Bangladesh",
+    "salary": 11000
+  },
+  {
+    "id": 8,
+    "player_name": "Kusal Mendis",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/1670.png",
+    "title": "Batsman",
+    "age": 27,
+    "country": "Sri Lanka",
+    "salary": 10000
+  },
+  {
+    "id": 9,
+    "player_name": "Suryakumar Yadav",
+    "player_img": "https://resources.pulse.icc-cricket.com/players/210/108.png",
+    "title": "Batsman",
+    "age": 32,
+    "country": "India",
+    "salary": 90000
+  }
+]
